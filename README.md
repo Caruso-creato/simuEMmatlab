@@ -6,3 +6,5 @@ considering multiple factors such as antenna patterns, transmission power, propa
 and environmental conditions. It processes user-defined parameters, selects an appropriate propagation model (COST 231-Hata, ITU-R P.1238,
 or with obstacle attenuation), and computes the resulting field strength in V/m and dB.
 The tool enables analysis of electromagnetic exposure and signal propagation, providing a realistic estimation of the field distribution in urban, suburban, and rural environments.
+
+To use the simulator, you need to extract all the files from the .rar archive "ShapeFiles_AntennaPattern" and create a local folder where you can place all the data available on GitHub.
